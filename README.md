@@ -232,8 +232,8 @@ npm install
 **Backend** (`backend/.env`):
 ```env
 PORT=5000
-MONGODB_URI=mongodb+srv://examadmin:examadmin123@cluster0.zztxw1x.mongodb.net/online-exam-system?retryWrites=true&w=majority
-JWT_SECRET=supersecretkey123
+MONGODB_URI=mongodb+srv://username password@cluster0.zztxw1x.mongodb.net/online-exam-system?retryWrites=true&w=majority
+JWT_SECRET=your secert key
 NODE_ENV=development
 ```
 
