@@ -282,14 +282,14 @@ Comprehensive guides for setup, development, and team collaboration:
 
 | Document | Purpose |
 |----------|---------|
-| **[TEAM_WORKFLOW.md](./TEAM_WORKFLOW.md)** | 👥 Team collaboration, setup, daily workflow, and Git workflow |
-| **[DEVELOPMENT.md](./DEVELOPMENT.md)** | 🛠️ Developer setup, API integration, and debugging |
-| **[SECURITY.md](./SECURITY.md)** | 🔐 Security best practices and vulnerability reporting |
-| **[TESTING_GUIDE.md](./TESTING_GUIDE.md)** | 🧪 Testing procedures and quality assurance |
-| **[ARCHITECTURE.md](./ARCHITECTURE.md)** | 🏗️ System design, database schema, and design patterns |
-| **[QUICK_START.md](./QUICK_START.md)** | ⚡ Quick reference guide (in Hindi) |
-| **[MONGODB_ATLAS_SETUP.md](./MONGODB_ATLAS_SETUP.md)** | 🗄️ Database configuration and management |
-| **[CONTRIBUTING.md](./CONTRIBUTING.md)** | 📝 Contributing guidelines and code standards |
+| **[docs/TEAM_WORKFLOW.md](./docs/TEAM_WORKFLOW.md)** | 👥 Team collaboration, setup, daily workflow, and Git workflow |
+| **[docs/DEVELOPMENT.md](./docs/DEVELOPMENT.md)** | 🛠️ Developer setup, API integration, and debugging |
+| **[docs/SECURITY.md](./docs/SECURITY.md)** | 🔐 Security best practices and vulnerability reporting |
+| **[docs/TESTING_GUIDE.md](./docs/TESTING_GUIDE.md)** | 🧪 Testing procedures and quality assurance |
+| **[docs/ARCHITECTURE.md](./docs/ARCHITECTURE.md)** | 🏗️ System design, database schema, and design patterns |
+| **[docs/QUICK_START.md](./docs/QUICK_START.md)** | ⚡ Quick reference guide (in Hindi) |
+| **[docs/MONGODB_ATLAS_SETUP.md](./docs/MONGODB_ATLAS_SETUP.md)** | 🗄️ Database configuration and management |
+| **[docs/CONTRIBUTING.md](./docs/CONTRIBUTING.md)** | 📝 Contributing guidelines and code standards |
 
 ---
 
