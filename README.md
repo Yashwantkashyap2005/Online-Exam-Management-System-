@@ -278,12 +278,18 @@ npm run dev
 
 ## 📚 Documentation
 
-- **[DEVELOPMENT.md](./DEVELOPMENT.md)** - Complete development guide
-- **[TESTING_GUIDE.md](./TESTING_GUIDE.md)** - Comprehensive testing procedures
-- **[QUICK_START.md](./QUICK_START.md)** - Quick reference guide
-- **[ARCHITECTURE.md](./ARCHITECTURE.md)** - System architecture & design
-- **[MONGODB_ATLAS_SETUP.md](./MONGODB_ATLAS_SETUP.md)** - Database configuration
-- **[API.md](./API.md)** - Complete API documentation
+Comprehensive guides for setup, development, and team collaboration:
+
+| Document | Purpose |
+|----------|---------|
+| **[TEAM_WORKFLOW.md](./TEAM_WORKFLOW.md)** | 👥 Team collaboration, setup, daily workflow, and Git workflow |
+| **[DEVELOPMENT.md](./DEVELOPMENT.md)** | 🛠️ Developer setup, API integration, and debugging |
+| **[SECURITY.md](./SECURITY.md)** | 🔐 Security best practices and vulnerability reporting |
+| **[TESTING_GUIDE.md](./TESTING_GUIDE.md)** | 🧪 Testing procedures and quality assurance |
+| **[ARCHITECTURE.md](./ARCHITECTURE.md)** | 🏗️ System design, database schema, and design patterns |
+| **[QUICK_START.md](./QUICK_START.md)** | ⚡ Quick reference guide (in Hindi) |
+| **[MONGODB_ATLAS_SETUP.md](./MONGODB_ATLAS_SETUP.md)** | 🗄️ Database configuration and management |
+| **[CONTRIBUTING.md](./CONTRIBUTING.md)** | 📝 Contributing guidelines and code standards |
 
 ---
 
