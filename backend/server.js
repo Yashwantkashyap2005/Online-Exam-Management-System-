@@ -3,7 +3,6 @@ const mongoose = require('mongoose');
 const cors = require('cors');
 const dotenv = require('dotenv');
 const helmet = require('helmet');
-const mongoSanitize = require('express-mongo-sanitize');
 const rateLimit = require('express-rate-limit');
 
 dotenv.config();
@@ -20,8 +19,7 @@ const app = express();
 
 // Security middleware
 app.use(helmet());
-app.use(mongoSanitize());
-app.use(express.json({ limit: '10kb' }));
+app.use(express.json({ limit: '10mb' }));
 
 // CORS configuration
 const corsOptions = {
